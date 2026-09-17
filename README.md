@@ -8,4 +8,5 @@ Add the CaveSeedUtil.dll to your server, then open the console through the Taver
 *(These commands can also be found through the help commands in the console)*  
 ints for the set command **must** be positive. 
 # IMPORTANT NOTE
+## CLIENT SIDE ONLY
 not sure what the cause is, but the game doesn't seem to fully register that the caves have been wiped, through the command in this mod or the vanilla one. If you relog this should fix itself.
